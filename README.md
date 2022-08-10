@@ -2,7 +2,7 @@
 
 ## Olá! Eu sou o Eduardo Souza 🖐️
 
-[![blog](https://img.shields.io/website?label=https://dudu148877.github.io/novorepositoio/index.html&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
+[![blog](https://img.shields.io/website?label=Eduardo Souza_website&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duduh_dev/)
 
 
