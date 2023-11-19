@@ -2,7 +2,7 @@
 
 <p>Young technology fanatic, working my way up to one day becoming a FULL-STACK developer. Welcome to my GitHub!</b></p>
 
-<i><b>#ENJOY</b></i>
+
 <!-- se você está vendo isso, parabéns... Agora, me faça um desafio :) -->
 <div align="center">
   <a href="https://github.com/dudu148877">
@@ -26,3 +26,5 @@
   <a href="https://www.linkedin.com/in/duduxzl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDQkNCkQJHstmbmpqCcDcnDfRWkLdnVDDrjrJphQxNCjjhghVfVmPpGxHnCBZPgCFpMzlZ"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+
