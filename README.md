@@ -1,6 +1,6 @@
 <h1><b>Hi, I'm Eduardo</h1>  
 
-<p>Young technology fanatic, working my way up to one day becoming a FULL-STACK developer. Welcome to my GitHub!</b></p>
+<p>Full-stack enthusiast weaving seamless experiences from server to client. Navigating databases and crafting interfaces to bring ideas to life in the digital realm.</b></p>
 
 
 <!-- se você está vendo isso, parabéns... Agora, me faça um desafio :) -->
